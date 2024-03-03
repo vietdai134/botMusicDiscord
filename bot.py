@@ -162,4 +162,4 @@ async def play_music(message, url):
         traceback.print_exc()  # Print traceback for debugging
         await message.channel.send(error_message)
 
-bot.run('MTE4Njg5NDQwMjc5MTE2NjAwMw.GEUBsf.Sq8BlT4moX3MV6KtzTpCwJuGE215KQB2txZFV0')
+bot.run('add your Token')
